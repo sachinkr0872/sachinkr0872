@@ -22,7 +22,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinkr0872&show_icons=true&theme=tokyonight)
+![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinkr0872&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkr0872&layout=compact&theme=tokyonight)
 

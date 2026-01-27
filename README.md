@@ -1,5 +1,5 @@
 # 💫 About Me:
->> 🎓 B.Tech Student<br>>> 🌱 Currently learning Web Dev & DSA<br>>> 💻 Interested in Backend & Full Stack Development<br>>> 🎯 Goal: Crack a Software Engineer role**
+🎓 B.Tech Student<br>🌱 Currently learning Web Dev & DSA<br>💻 Interested in Backend & Full Stack Development<br>🎯 Goal: Crack a Software Engineer role**
 
 
 # 💻 Tech Stack:
